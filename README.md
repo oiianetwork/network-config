@@ -2,6 +2,16 @@
 
 This repository is primarily a resource for developers.
 
+## Network Configuration
+
+### Basic Information
+
+- **Network Name**: Oiia Network
+- **Default RPC URL**: `https://rpc.oiia.network`
+- **Chain ID**: `20220915`
+- **Currency Symbol**: `OIIA`
+- **Block Explorer URL**: [https://dora.oiia.network](https://dora.oiia.network)
+
 ## Genesis information
 
 ```yaml
