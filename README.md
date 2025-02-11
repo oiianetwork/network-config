@@ -15,7 +15,7 @@ This repository is primarily a resource for developers.
 ## Genesis information
 
 ```yaml
-genesis_time: 1739272271
+genesis_time: 1739362332
 genesis_validators_root: 0x3b179a35d0b0ff66f969a6ec6036277bc6992ee7e1033ced7debcd8a7ec063f5
 genesis_validators_count: 128
 genesis_active_validators_count: 128
