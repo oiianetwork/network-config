@@ -10,6 +10,7 @@ This repository is primarily a resource for developers.
 - **Default RPC URL**: `https://rpc.oiia.network`
 - **Chain ID**: `20220915`
 - **Currency Symbol**: `OIIA`
+- **Blockscout Explorer URL**: [https://explorer.oiia.network](https://explorer.oiia.network)
 - **Beacon Explorer URL**: [https://dora.oiia.network](https://dora.oiia.network)
 
 ## Genesis information
